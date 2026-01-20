@@ -52,3 +52,35 @@ I continuously improve my skills through hands-on practice, course-based project
 - **EXCEL Dachboard**  [https://1drv.ms/x/c/6b24a051b62a8999/Executive_Profit_Dashboard](https://1drv.ms/x/c/6b24a051b62a8999/IQA-J8EAo9U0T5q9UsBate-XAQuFXViMDJP4XMQ1WKi0VVc?e=ADo03i)
 
  <img width="560" height="224" alt="image" src="https://github.com/user-attachments/assets/10bd710d-7c30-40c7-9323-cd646ddd6ef4" />  <img width="420" height="225" alt="image" src="https://github.com/user-attachments/assets/fdff1428-d67d-41d7-853c-d4058f98351d" />
+
+
+
+
+
+ ## 📌 Featured Projects
+
+### 📊 Tableau Dashboards
+
+[![002 KP Product Analytics](https://public.tableau.com/static/images/00/002KPProductAnalytics/ProductAnalyticsProduktanalysen/1_rss.png)](https://public.tableau.com/app/profile/tereshchuk.pavlo/viz/002KPProductAnalytics/ProductAnalyticsProduktanalysen)  
+**002 KP Product Analytics**  
+Tableau dashboard with KPI analysis, product performance, and sales insights.
+
+[![BookSTEPIK](https://public.tableau.com/static/images/Bo/BookSTEPIK/Dashboard1/1_rss.png)](https://public.tableau.com/app/profile/tereshchuk.pavlo/viz/BookSTEPIK/Dashboard1)  
+**BookSTEPIK**  
+Tableau dashboard created after online courses, focused on KPI visualization and layout practice.
+
+---
+
+### 📈 Excel Dashboard
+
+[![Executive Profit Dashboard](https://raw.githubusercontent.com/ptereschuk01/BI-DashBoards-learning-project/main/images/excel_dashboard_preview.png)](https://1drv.ms/x/c/6b24a051b62a8999/Executive_Profit_Dashboard)  
+**Executive Profit Dashboard**  
+Excel dashboard for profit and revenue analysis with KPIs and visual summaries.
+
+---
+
+## 🔗 Links
+- 💼 **GitHub Portfolio:** [https://github.com/ptereschuk01](https://github.com/ptereschuk01)  
+- 📊 **Tableau Public:** [https://public.tableau.com/app/profile/tereshchuk.pavlo](https://public.tableau.com/app/profile/tereshchuk.pavlo)  
+- 📈 **Excel Dashboard (Online):** [Executive Profit Dashboard](https://1drv.ms/x/c/6b24a051b62a8999/Executive_Profit_Dashboard)
+
