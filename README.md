@@ -37,7 +37,7 @@ Currently building practical skills through structured learning projects in data
 
 ## Featured Projects
 
-### 📊 BI Dashboards
+### 🔭 BI Dashboards
 
 * Excel and Tableau dashboards focused on KPI analysis and visualization
 * Profit, revenue, and product analytics dashboards
@@ -55,7 +55,7 @@ Currently building practical skills through structured learning projects in data
 
 ---
 
-### 🗄️ SQL & Database Practice
+### ⚡ SQL & Database Practice
 
 * Oracle SQL and PL/SQL practice scripts
 * Reporting queries, joins, subqueries, and aggregations
