@@ -37,7 +37,7 @@ My main interests include:
 
 ## Featured Projects
 
-###  BI Dashboards
+### 📊 BI Dashboards
 
 * Excel and Tableau dashboards focused on KPI analysis and visualization
 * Profit, revenue, and product analytics dashboards
@@ -49,14 +49,14 @@ My main interests include:
 * Checklists, workflows, and common data quality issues
   👉 Repository: **Data-Analyse**
 
-###  SQL & Database Practice
+### 🗄️ SQL & Database Practice
 
 * Oracle SQL and PL/SQL practice scripts
 * Reporting queries, joins, subqueries, and aggregations
 * Basics of query optimization and performance considerations
   👉 Repository: **SQL-PL-SQL-Oracle-practice**
 
-###  Portfolio Overview
+### 🗂️ Portfolio Overview
 
 * Navigation repository with links to all main projects
   👉 Repository: **Portfolio-Overview**
