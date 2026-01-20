@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Pavlo Tereshchuk
 
-Data Analysis & Business Intelligence | Excel • Tableau • SQL • Python
+**Data Analysis & Business Intelligence** | Excel • Tableau • SQL • Python
 Based in Germany
 
 ---
@@ -25,7 +25,7 @@ Based in Germany
 I am an aspiring data analyst with a strong focus on data quality, exploratory data analysis, and business-oriented reporting.
 Currently building practical skills through structured learning projects in data analysis, BI, and SQL.
 
-My main interests include:
+### Main interests:
 
 * Data cleaning and preparation
 * Exploratory data analysis (EDA)
@@ -41,25 +41,27 @@ My main interests include:
 
 * Excel and Tableau dashboards focused on KPI analysis and visualization
 * Profit, revenue, and product analytics dashboards
-  👉 Repository: **BI-DashBoards-learning-project**
+
+👉 Repository: **BI-DashBoards-learning-project**
+
+---
 
 ### 🔍 Data Analysis
 
 * Structured learning notes and practical references for data cleaning and EDA
 * Checklists, workflows, and common data quality issues
-  👉 Repository: **Data-Analyse**
+
+👉 Repository: **Data-Analyse**
+
+---
 
 ### 🗄️ SQL & Database Practice
 
 * Oracle SQL and PL/SQL practice scripts
 * Reporting queries, joins, subqueries, and aggregations
 * Basics of query optimization and performance considerations
-  👉 Repository: **SQL-PL-SQL-Oracle-practice**
 
-### 🗂️ Portfolio Overview
-
-* Navigation repository with links to all main projects
-  👉 Repository: **Portfolio-Overview**
+👉 Repository: **SQL-PL-SQL-Oracle-practice**
 
 ---
 
@@ -80,6 +82,5 @@ I continuously improve my skills through hands-on practice, course-based project
 
 ## Links
 
-* GitHub Portfolio: [https://github.com/ptereschuk01](https://github.com/ptereschuk01)
+* GitHub: [https://github.com/ptereschuk01](https://github.com/ptereschuk01)
 * Tableau Public: [https://public.tableau.com/app/profile/tereshchuk.pavlo](https://public.tableau.com/app/profile/tereshchuk.pavlo)
-
