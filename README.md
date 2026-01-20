@@ -51,7 +51,7 @@ I continuously improve my skills through hands-on practice, course-based project
 - **Tableau Public:** [https://public.tableau.com/app/profile/tereshchuk.pavlo](https://public.tableau.com/app/profile/tereshchuk.pavlo)
 - **EXCEL Dachboard**  [https://1drv.ms/x/c/6b24a051b62a8999/Executive_Profit_Dashboard](https://1drv.ms/x/c/6b24a051b62a8999/IQA-J8EAo9U0T5q9UsBate-XAQuFXViMDJP4XMQ1WKi0VVc?e=ADo03i)
 
- <img width="280" height="112" alt="image" src="https://github.com/user-attachments/assets/10bd710d-7c30-40c7-9323-cd646ddd6ef4" /> 
+ <img width="560" height="224" alt="image" src="https://github.com/user-attachments/assets/10bd710d-7c30-40c7-9323-cd646ddd6ef4" /> 
  
  <img width="128" height="67" alt="image" src="https://github.com/user-attachments/assets/fdff1428-d67d-41d7-853c-d4058f98351d" />
 
