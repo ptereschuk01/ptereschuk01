@@ -53,5 +53,5 @@ I continuously improve my skills through hands-on practice, course-based project
 
  <img width="560" height="224" alt="image" src="https://github.com/user-attachments/assets/10bd710d-7c30-40c7-9323-cd646ddd6ef4" /> 
  
- <img width="128" height="67" alt="image" src="https://github.com/user-attachments/assets/fdff1428-d67d-41d7-853c-d4058f98351d" />
+ <img width="505" height="270" alt="image" src="https://github.com/user-attachments/assets/fdff1428-d67d-41d7-853c-d4058f98351d" />
 
