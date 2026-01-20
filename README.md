@@ -50,4 +50,4 @@ I continuously improve my skills through hands-on practice, course-based project
 ## Links
 - **GitHub:** [https://github.com/ptereschuk01](https://github.com/ptereschuk01)  
 - **Tableau Public:** [https://public.tableau.com/app/profile/tereshchuk.pavlo](https://public.tableau.com/app/profile/tereshchuk.pavlo)
-- **EXCEL Dachboard**  [Executive Profit Dashboard](https://1drv.ms/x/c/6b24a051b62a8999/IQA-J8EAo9U0T5q9UsBate-XAQuFXViMDJP4XMQ1WKi0VVc?e=ADo03i)
+- **EXCEL Dachboard**  [https://1drv.ms/x/c/6b24a051b62a8999/Executive_Profit_Dashboard](https://1drv.ms/x/c/6b24a051b62a8999/IQA-J8EAo9U0T5q9UsBate-XAQuFXViMDJP4XMQ1WKi0VVc?e=ADo03i)
