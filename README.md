@@ -56,3 +56,6 @@ I continuously improve my skills through hands-on practice, course-based project
 
 [![Excel Dashboard](https://1drv.ms/x/c/6b24a051b62a8999/Executive_Profit_Dashboard)](https://1drv.ms/x/c/6b24a051b62a8999/Executive_Profit_Dashboard)
 
+[View Tableau Dashboard](https://public.tableau.com/app/profile/tereshchuk.pavlo/viz/002KPProductAnalytics/ProductAnalyticsProduktanalysen)
+
+
