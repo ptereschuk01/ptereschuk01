@@ -36,22 +36,22 @@ My main interests include:
 
 ## Featured Projects
 
-### 📊 BI Dashboards
+### 📫 BI Dashboards
 
 * Excel and Tableau dashboards focused on KPI analysis and visualization
 * Profit, revenue, and product analytics dashboards
-  👉 Repository: **BI-DashBoards-learning-project**
+  ✨ Repository: **BI-DashBoards-learning-project**
 
-### 🔍 Data Analysis
+### 🔭 Data Analysis
 
 * Structured learning notes and practical references for data cleaning and EDA
 * Checklists, workflows, and common data quality issues
-  👉 Repository: **Data-Analyse**
+  ✨ Repository: **Data-Analyse**
 
-### 🗂️ Portfolio Overview
+### ⚡ Portfolio Overview
 
 * Navigation repository with links to all main projects
-  👉 Repository: **Portfolio-Overview**
+  ✨ Repository: **Portfolio-Overview**
 
 ---
 
