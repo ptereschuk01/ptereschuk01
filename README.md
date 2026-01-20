@@ -58,4 +58,5 @@ I continuously improve my skills through hands-on practice, course-based project
 
 [View Tableau Dashboard](https://public.tableau.com/app/profile/tereshchuk.pavlo/viz/002KPProductAnalytics/ProductAnalyticsProduktanalysen)
 
+https://public.tableau.com/views/002KPProductAnalytics/ProductAnalyticsProduktanalysen?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
