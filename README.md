@@ -6,8 +6,9 @@ Currently building practical skills through structured learning projects in data
 ---
 
 ## Main interests
-- Data cleaning and preparation  
-- Exploratory data analysis (EDA)  
+- Data cleaning and preparation                                   <img width="245" height="117" alt="image" src="https://github.com/user-attachments/assets/06639abc-24ac-4969-9758-77938bcc9008" />
+
+- Exploratory data analysis (EDA)    
 - KPI definition and dashboard design  
 - Reporting and analytical queries  
 - Translating data into clear, business-relevant insights  
