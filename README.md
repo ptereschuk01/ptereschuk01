@@ -15,17 +15,17 @@ Currently building practical skills through structured learning projects in data
 
 ## Featured Projects
 
-### 📊 BI Dashboards
+###  BI Dashboards
 - Excel and Tableau dashboards focused on KPI analysis and visualization  
 - Profit, revenue, and product analytics dashboards  
 - 👉 Repository: [BI-DashBoards-learning-project](https://github.com/ptereschuk01/BI-DashBoards-learning-project)
 
-### 🔍 Data Analysis
+###  Data Analysis
 - Structured learning notes and practical references for data cleaning and EDA  
 - Checklists, workflows, and common data quality issues  
 - 👉 Repository: [DA_House_Prices_Prediction_LGBM_CatBoost_XGBoost](https://github.com/ptereschuk01/DA_House_Prices_Prediction_LGBM_CatBoost_XGBoost/tree/main)
 
-### 🗄️ SQL & Database Practice
+###  SQL & Database Practice
 - Oracle SQL and PL/SQL practice scripts  
 - Reporting queries, joins, subqueries, and aggregations  
 - Basics of query optimization and performance considerations  
