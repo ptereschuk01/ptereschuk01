@@ -23,7 +23,7 @@ Currently building practical skills through structured learning projects in data
 ### 🔍 Data Analysis
 - Structured learning notes and practical references for data cleaning and EDA  
 - Checklists, workflows, and common data quality issues  
-- 👉 Repository: [Data-Analyse](https://github.com/ptereschuk01/Data-Analyse)
+- 👉 Repository: [Data-Analyse](https://github.com/ptereschuk01/DA_House_Prices_Prediction_LGBM_CatBoost_XGBoost/tree/main/notebooks)
 
 ### 🗄️ SQL & Database Practice
 - Oracle SQL and PL/SQL practice scripts  
