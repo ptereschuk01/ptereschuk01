@@ -18,6 +18,7 @@ Currently building practical skills through structured learning projects in data
 ### Excel Dachboard
 
 <img width="217" height="141" alt="image" src="https://github.com/user-attachments/assets/3703016f-cd82-45da-ab2b-5692a0317b2d" />
+
 - 👉 Repository: [BI-DashBoards-DA_Kurs-project](https://github.com/ptereschuk01/retail-discount-optimization)
 
 ###  BI Dashboards
