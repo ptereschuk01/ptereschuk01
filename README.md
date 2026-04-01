@@ -15,6 +15,11 @@ Currently building practical skills through structured learning projects in data
 
 ## Featured Projects
 
+### Excel Dachboard
+
+<img width="117" height="71" alt="image" src="https://github.com/user-attachments/assets/3703016f-cd82-45da-ab2b-5692a0317b2d" />
+
+
 ###  BI Dashboards
 - Excel and Tableau dashboards focused on KPI analysis and visualization  
 - Profit, revenue, and product analytics dashboards  
